@@ -1,7 +1,7 @@
 # ecoleta
 Aplicação para cadastrar pontos de coleta para reciclagem.
 
-Para criação da aplicação foi utilizado TypeScript, CSS, HTML e banco de dados SQLite3.
+Para criação da aplicação foi utilizado TypeScript, React, CSS, HTML e banco de dados SQLite3.
 
 Para iniciar o projeto:
 
